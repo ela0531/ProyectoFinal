@@ -1,18 +1,9 @@
-/*
- * Universidad Autónoma de Santo Domingo
- * Facultad de Ciencias - Escuela de Informática
- * Proyecto Sakila CRUD
- * Autor: [Tu Nombre]
- * Fecha: 10/12/2025
- */
+
 package com.sakila.models;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Modelo de Película (Film)
- */
 public class Film {
     private Integer id;
     private String title;

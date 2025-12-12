@@ -1,11 +1,4 @@
-/*
- * Universidad Autónoma de Santo Domingo
- * Facultad de Ciencias - Escuela de Informática
- * Proyecto Sakila CRUD
- * Autor: YINET VALDEZ IBERT
- * Matricula: 100597131
- * Fecha: 10/12/2025
- */
+
 package com.sakila.data;
 
 import java.util.*;

@@ -1,15 +1,6 @@
-/*
- * Universidad Autónoma de Santo Domingo
- * Facultad de Ciencias - Escuela de Informática
- * Proyecto Sakila CRUD
- * Autor: [Tu Nombre]
- * Fecha: 10/12/2025
- */
+
 package com.sakila.models;
 
-/**
- * Modelo de Actor
- */
 public class Actor {
     private Integer id;
     private String name;

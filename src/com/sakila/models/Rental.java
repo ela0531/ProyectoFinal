@@ -1,17 +1,8 @@
-/*
- * Universidad Autónoma de Santo Domingo
- * Facultad de Ciencias - Escuela de Informática
- * Proyecto Sakila CRUD
- * Autor: [Tu Nombre]
- * Fecha: 10/12/2025
- */
+
 package com.sakila.models;
 
 import java.util.Date;
 
-/**
- * Modelo de Renta (Rental)
- */
 public class Rental {
     private Integer id;
     private Film film;

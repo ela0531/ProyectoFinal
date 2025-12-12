@@ -1,15 +1,6 @@
-/*
- * Universidad Autónoma de Santo Domingo
- * Facultad de Ciencias - Escuela de Informática
- * Proyecto Sakila CRUD
- * Autor: [Tu Nombre]
- * Fecha: 10/12/2025
- */
+
 package com.sakila.models;
 
-/**
- * Modelo de Cliente (Customer)
- */
 public class Customer {
     private Integer id;
     private String name;
